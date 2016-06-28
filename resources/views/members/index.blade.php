@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="content">
-    <h1>About page</h1>
+    <h1>Members page</h1>
 </div>
 
 @stop
